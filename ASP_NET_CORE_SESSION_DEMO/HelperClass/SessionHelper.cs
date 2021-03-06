@@ -1,5 +1,5 @@
 ﻿#region Author-Detail
-// This project  created by Author :- Ravi choudhary, +-91-7014892012
+//@* author Ravi Choudhary<ravichoudhary294@gmail.com>*@
 #endregion
 using Microsoft.AspNetCore.Http;
 using System;
@@ -96,7 +96,7 @@ namespace ASP_NET_CORE_SESSION_DEMO.HelperClass
             if (string.IsNullOrEmpty(key))
                 throw new ArgumentNullException(nameof(key));
 
-            return $"_redis_Refi_{key}";
+            return $"_redis_yoursitename_{key}";
         }
     }
 }

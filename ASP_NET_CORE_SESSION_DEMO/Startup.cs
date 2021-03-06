@@ -1,5 +1,5 @@
 #region Author-Detail
-//Owner detail :- This project  created by Ravi choudhary, +-91-7014892012, Jaipur(Raj.)
+//@* author Ravi Choudhary<ravichoudhary294@gmail.com>*@
 #endregion
 using System;
 using System.Collections.Generic;
